@@ -1,0 +1,17 @@
+<litepal>
+    <dbname value="EnglishLearnDB"></dbname>
+    <version value="1"></version>
+    <list>
+        <mapping class="com.usts.test.database.User"></mapping>
+        <mapping class="com.usts.test.database.Word"></mapping>
+        <mapping class="com.usts.test.database.MyDate"></mapping>
+        <mapping class="com.usts.test.database.Interpretation"></mapping>
+        <mapping class="com.usts.test.database.Phrase"></mapping>
+        <mapping class="com.usts.test.database.Sentence"></mapping>
+        <mapping class="com.usts.test.database.UserConfig"></mapping>
+        <mapping class="com.usts.test.database.DailyData"></mapping>
+        <mapping class="com.usts.test.database.LearnTime"></mapping>
+        <mapping class="com.usts.test.database.WordFolder"></mapping>
+        <mapping class="com.usts.test.database.FolderLinkWord"></mapping>
+    </list>
+</litepal>

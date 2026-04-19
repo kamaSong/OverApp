@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/overAPP/app/src/main/res/drawable/rounded_button.xml" value="0.2037037037037037" />
+        <entry key="..\:/overAPP/app/src/main/res/drawable/view_radius_bottom.xml" value="0.14583333333333334" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_add_folder.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_alarm.xml" value="0.12760416666666666" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_calendar.xml" value="0.1598731884057971" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_change_plan.xml" value="0.15307971014492755" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_choose_word_dbactivity.xml" value="0.1793478260869565" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_finish.xml" value="0.15307971014492755" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_folder_detail.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_learn_word.xml" value="0.15307971014492755" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_list.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_load_word.xml" value="0.1421875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_login.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_main.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_match.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_ocr.xml" value="0.15307971014492755" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_ocractivity.xml" value="0.15307971014492755" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_pic_custom.xml" value="0.15307971014492755" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_plan.xml" value="0.12760416666666666" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_search.xml" value="0.1421875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_show.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_speed.xml" value="0.15307971014492755" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_welcome.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_word_detail.xml" value="0.1421875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/activity_word_folder.xml" value="0.1421875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/fragment_fragement_words.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/fragment_me.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/fragment_review.xml" value="0.12760416666666666" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/fragment_words.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/item_authority.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/item_book_list.xml" value="0.1793478260869565" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/item_edit.xml" value="0.15307971014492755" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/item_match.xml" value="0.15307971014492755" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/item_search.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/item_show.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/item_wd_phrase.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/item_wd_sentence.xml" value="0.15307971014492755" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/item_word_fold_list.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/item_word_folder.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/item_word_list.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/layout/item_word_mean_choice.xml" value="0.15307971014492755" />
+        <entry key="..\:/overAPP/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1296875" />
+        <entry key="..\:/overAPP/app/src/main/res/menu/fragment_nav.xml" value="0.1296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.overapp">
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:launchMode="standard"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PlanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PicCustomActivity"
+            android:exported="false" />
+        <activity
+            android:name=".showActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FinishActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LearnWordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FolderDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddFolderActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CalendarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WordFolderActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SearchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WordDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoadWordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SpeedActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MatchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OCRActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AlarmActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChangePlanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChooseWordDBActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WelcomeActivity"
+            android:exported="true">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

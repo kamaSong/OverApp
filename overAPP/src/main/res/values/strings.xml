@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">overAPP</string>
+    <string name="app_welcome">
+        为了更好地提供单词背诵等相关服务，本app会根据你使用服务时的具体需要，收集必要信息，若不同意则会退出应用。
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
